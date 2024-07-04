@@ -1,0 +1,7 @@
+C:\Users\arjit\source\repos\LeetCodePractice\LeetCodePractice\bin\Debug\LeetCodePractice.exe.config
+C:\Users\arjit\source\repos\LeetCodePractice\LeetCodePractice\bin\Debug\LeetCodePractice.exe
+C:\Users\arjit\source\repos\LeetCodePractice\LeetCodePractice\bin\Debug\LeetCodePractice.pdb
+C:\Users\arjit\source\repos\LeetCodePractice\LeetCodePractice\obj\Debug\LeetCodePractice.csprojAssemblyReference.cache
+C:\Users\arjit\source\repos\LeetCodePractice\LeetCodePractice\obj\Debug\LeetCodePractice.csproj.CoreCompileInputs.cache
+C:\Users\arjit\source\repos\LeetCodePractice\LeetCodePractice\obj\Debug\LeetCodePractice.exe
+C:\Users\arjit\source\repos\LeetCodePractice\LeetCodePractice\obj\Debug\LeetCodePractice.pdb
