@@ -1,0 +1,7 @@
+C:\Users\arjit\source\repos\CountStrinInterview\CountStrinInterview\bin\Debug\CountStrinInterview.exe.config
+C:\Users\arjit\source\repos\CountStrinInterview\CountStrinInterview\bin\Debug\CountStrinInterview.exe
+C:\Users\arjit\source\repos\CountStrinInterview\CountStrinInterview\bin\Debug\CountStrinInterview.pdb
+C:\Users\arjit\source\repos\CountStrinInterview\CountStrinInterview\obj\Debug\CountStrinInterview.csprojAssemblyReference.cache
+C:\Users\arjit\source\repos\CountStrinInterview\CountStrinInterview\obj\Debug\CountStrinInterview.csproj.CoreCompileInputs.cache
+C:\Users\arjit\source\repos\CountStrinInterview\CountStrinInterview\obj\Debug\CountStrinInterview.exe
+C:\Users\arjit\source\repos\CountStrinInterview\CountStrinInterview\obj\Debug\CountStrinInterview.pdb
