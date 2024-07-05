@@ -1,0 +1,7 @@
+C:\Users\arjit\source\repos\QueueCollection\QueueCollection\bin\Debug\QueueCollection.exe.config
+C:\Users\arjit\source\repos\QueueCollection\QueueCollection\bin\Debug\QueueCollection.exe
+C:\Users\arjit\source\repos\QueueCollection\QueueCollection\bin\Debug\QueueCollection.pdb
+C:\Users\arjit\source\repos\QueueCollection\QueueCollection\obj\Debug\QueueCollection.csprojAssemblyReference.cache
+C:\Users\arjit\source\repos\QueueCollection\QueueCollection\obj\Debug\QueueCollection.csproj.CoreCompileInputs.cache
+C:\Users\arjit\source\repos\QueueCollection\QueueCollection\obj\Debug\QueueCollection.exe
+C:\Users\arjit\source\repos\QueueCollection\QueueCollection\obj\Debug\QueueCollection.pdb
